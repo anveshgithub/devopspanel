@@ -1,2 +1,0 @@
-# devopspanel
-easy to ease
